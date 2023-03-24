@@ -11,7 +11,7 @@
     <name>API for sending and storing messages with Push Notifications</name>
 
     <properties>
-        <org.springframework.version>5.2.1.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.23.RELEASE</org.springframework.version>
     </properties>
 
     <build>
